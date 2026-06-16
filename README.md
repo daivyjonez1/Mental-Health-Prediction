@@ -1,4 +1,4 @@
-# **Mental Health Prediction Using Various ML/DL Methods**
+# **Mental Health Treatment Prediction Using Various ML/DL Methods**
 
 ---
 
